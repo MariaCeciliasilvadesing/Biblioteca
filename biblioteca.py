@@ -11,12 +11,20 @@ while True:
     op = input("Escolha uma opação do menu: ")
 
     if op == "0":
-        print("Saindo da Biblioteca...")
-        break
     
     elif op == "1":
-        nome = input("Informe o nome do livro que deseja cadastrar: ")
-        autor = 
+
+    elif op == "2":
+
+    elif op == "3":
+
+    elif op == "4":
+
+    elif op == "5":
+
+    elif op == "6":
+
+    else:
         
         
 
