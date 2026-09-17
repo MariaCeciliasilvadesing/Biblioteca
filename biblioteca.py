@@ -2,12 +2,12 @@ while True:
     print("=-=Menu da Biblioteca=-=")
     print("0-Sair") 
     print("1-Cadastrar")
-    print("3-Exibir")
+    print("2-Exibir")
+    print("3-Editar")
     print("4-Deletar")
-    print("5-Editar")
-    print("6-Pesquisar")
-    print("7-Gerar relatório")
-
+    print("5-Pesquisar")
+    print("6-Gerar Relatório")
+    
     op = input("Escolha uma opação do menu")
 
     if op == "0":
