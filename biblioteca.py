@@ -7,13 +7,13 @@ while True:
     print("4-Editar")
     print("5-Pesquisar")
     print("6-GerarRelatório")
-    
+
     op = input("Escolha uma opação do menu: ")
 
     if op == "0":
         print("Saindo da Biblioteca...")
         break
-
+    
     elif op == "1":
 
     elif op == "2":
